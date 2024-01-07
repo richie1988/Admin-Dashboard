@@ -31,7 +31,7 @@ ADMIN-DASHBOARD
   - [📝 License ](#-license-)
 
 # 📖 [Bookstore] <a name="about-project"></a>
-This is the Bookstore App that allows its users to read books to add books and to save there favourites books this app its easy to use and UI.
+This is the Admin Dashboard App that allows its users to  manage the team and check the workload and check how the company is performing so easy to use and navigate to add and to save there favourites manage the team and check the workload and check how the company is performing so easy to use and navigate this app its easy to use and UI.
 
 **[Mobile portfolio app]** is a Mobile vision app that makes easier for Developers to chocase there projects
 so that other developer's can find them or see what the have built.
@@ -66,7 +66,7 @@ so that other developer's can find them or see what the have built.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo Below <a name="live-demo"></a>
-- [ Live Demo ](https://richie1988.github.io/My_Bookstore_App/)
+- [ comming soon! ](https://github.com/richie1988/Admin-Dashboard.git)
 
 ## 📹 Video Presentation <a name="video-presentation"></a>
 
@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 cd my-folder
 Clone this repository to your desired folder:
 run:
-git clone (https://github.com/richie1988/My_Bookstore_App.git)
+git clone (https://github.com/richie1988/Admin-Dashboard.git)
 
 ### Install
 Install the prerequisites this project using:
@@ -170,7 +170,7 @@ I would like Thank Microverse Team and my Collabaration partners whom they have 
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/richie1988/My_Bookstore_App/issues).
+Feel free to check the [issues page](https://github.com/richie1988/Admin-Dashboard.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
