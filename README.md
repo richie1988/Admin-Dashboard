@@ -65,8 +65,8 @@ so that other developer's can find them or see what the have built.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo Below <a name="live-demo"></a>
-- [ comming soon! ](https://github.com/richie1988/Admin-Dashboard.git)
+## 🚀 Live Demo <a name="live-demo"></a>
+- [ Here](https://richardsadmin-dashboard.onrender.com/)
 
 ## 📹 Video Presentation <a name="video-presentation"></a>
 
