@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { format } from 'date-fns'; // Import formatDate function
 import FullCalendar from "@fullcalendar/react";
 import dayGridPlugin from "@fullcalendar/daygrid";
 import timeGridPlugin from "@fullcalendar/timegrid";
@@ -14,6 +15,11 @@ import {
 } from "@mui/material";
 import Header from "../../components/Header";
 import { tokens } from "../../theme";
+
+// Define formatDate function
+const formatDate = (date, formatString) => {
+  return format(new Date(date), formatString);
+};
 
 const Calendar = () => {
   const theme = useTheme();
@@ -73,11 +79,7 @@ const Calendar = () => {
                   primary={event.title}
                   secondary={
                     <Typography>
-                      {formatDate(event.start, {
-                        year: "numeric",
-                        month: "short",
-                        day: "numeric",
-                      })}
+                      {formatDate(event.start, 'yyyy-MM-dd')}
                     </Typography>
                   }
                 />
@@ -89,7 +91,7 @@ const Calendar = () => {
         {/* CALENDAR */}
         <Box flex="1 1 100%" ml="15px">
           <FullCalendar
-            height="75vh"
+            height="65vh"
             plugins={[
               dayGridPlugin,
               timeGridPlugin,
